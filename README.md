@@ -39,3 +39,6 @@ This simulates how virtual memory could work.
 ### 4. print / testing
 The print function will run a series of tests with respective output structure and memory display, to understand and justify decisions for the implementation. Printed on terminal you will be able to read through the different tests with their descriptions.
 The given implementation isn't completely bug-free which can be observed in the last test which results in an exception.
+
+### Notes
+- Everything is implemented in a single large java file due to the constraints of this assignment.
