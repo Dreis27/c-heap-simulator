@@ -1,5 +1,3 @@
-// STUDENT ID: 38880059
-
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +6,7 @@ import java.util.Random;
 /*
  * MEMORY MANAGEMENT SIMULATOR
  * 
- * Memory is an array of 8192 bytes where different sections of that memory get allocated, freed and connected in a way that forms free lists.
+ * Memory is an array of 8192 bytes where different sections of that memory get allocated, freed, and connected in a way that forms free lists.
  * 
  * malloc() and free() functions should operate fairly similar to C.
  * No helper data structures (except for FreeList class that is used for storing head and tail pointers) or any other data types, 
